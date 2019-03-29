@@ -1,0 +1,8 @@
+[package]
+name = "thanos"
+version = "0.1.0"
+authors = ["doxterpepper <dockconnellyoneal@gmail.com>"]
+edition = "2015"
+
+[dependencies]
+rand = "*"
